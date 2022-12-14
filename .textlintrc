@@ -1,6 +1,7 @@
 {
   "filters": {},
   "rules": {
-    "ja-hiragana-fukushi": true
+    "ja-hiragana-fukushi": true,
+    "ja-hiragana-hojodoushi": true
   }
 }
